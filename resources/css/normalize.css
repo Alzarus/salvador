@@ -1,6 +1,6 @@
 body {
     background: #d6a0ca;
-    background: #FFF1D6 url(images/background.jpg);
+    background: #FFF1D6 url(../images/background.jpg);
     background-size: cover;
     font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
     line-height: 1.6;
